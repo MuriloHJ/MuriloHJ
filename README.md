@@ -37,10 +37,6 @@
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloHJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2fff&text_color=c8eeff&border_radius=10&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloHJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c8eeff&border_radius=10"/>
-<br/>
 <img src="https://streak-stats.demolab.com?user=MuriloHJ&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=c8eeff&dates=555555&border_radius=10"/>
 </div>
  
